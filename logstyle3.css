@@ -1,0 +1,46 @@
+div.loglogaoringo{
+    width:95%;
+    margin:0;
+    padding:0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+div.loglogaoringo *{
+    margin:0;
+    padding:0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-family:'ヒラギノ角ゴ Pro W3','メイリオ','Meiryo','ＭＳ Ｐゴシック','Osaka',sans-serif;
+    font-size:14px;
+    line-height:140% !important;
+    word-wrap: break-word;
+}
+
+div.loglogaoringo dt img{
+    width: 43px;
+    height: 43px;
+    border:double 1px;
+}
+div.loglogaoringo dt{
+    font-size:10px;
+    width: 45px;
+    height:45px;
+    margin :4px 0 0 0;
+    background-color: #3B5998;
+    float: left;
+    text-align: center;
+    vertical-align: central;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+div.loglogaoringo dd{
+width:85%;
+border:solid 2px;
+border-radius: 5px;
+margin: 0 0 1em 50px;
+padding :1em;
+}
